@@ -1,6 +1,31 @@
 #impacts{
-    background-color: orange;
+    text-align: center;
 }
 body{
+    
+    /* background-color: orange; */
+    text-align: center;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  
+a {
+    padding: 8px;
+    text-decoration: none;
+    color:black;
+    color:rgb(111, 86, 86);
+    border-bottom: whitesmoke;
+    font-size: larger;
+    border-bottom-style: solid;
+    padding-right:100px;
+    padding-left: 100px;
+}
+
+nav{
+    /* background-color: white; */
+    padding-bottom: 50px;
+}
+#title{
+    padding-bottom: 40px;
+}
+img{
 }
